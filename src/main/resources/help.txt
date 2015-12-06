@@ -1,0 +1,3 @@
+Reference Links
+http://dekapx.blogspot.in/2014/03/springbatch-text-file-to-mysql-using-jpa.html
+https://github.com/ghillert/spring-batch-integration-sample
